@@ -3,12 +3,16 @@
 
 # 分析结论
 1.青少年父母抑郁的人数与自身是否抑郁相关
+
 2.不同种族的青少年父母抑郁人数不全相等 
 
 # 分析过程
 1.显著性水平 < 0.05，拒绝原假设，即认为青少年父母抑郁人数与自身抑郁相关
+
 2.不同种族的青少年父母抑郁人数均相等：显著性水平 < 0.05，拒绝原假设，即认为不同种族青少年父母抑郁人数均值不全相等
+
 3.进一步地，Black & Asian/Native Hawaiian/Pacific Islander、Asian/Native Hawaiian/Pacific Islander & Hispanic or Latino  种族父母抑郁人数均值相等
+
 ```
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
